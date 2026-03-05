@@ -2,7 +2,7 @@ Pragma is a project encompassing a hardware optimization tool, a programming lan
 The below is about the hardware optimization tool.  For information on the Pragma project, go here:
 
 ---
-# Tool to automate optimiztion of hardare through coreboot
+# Tool to automate optimiztion of hardware with coreboot
 
 Metal is a tool to help system administrators and engineers optimize Intel and AMD platforms at the hardware level.
 Admins use the coreboot build tool to make the firmware image, save the legacy UEFI image and flash the new image,
@@ -33,4 +33,5 @@ OCP develops open-source hardware designs for cost-effective, energy-efficient i
 servers and liquid-cooling technologies.
 
 ---
+
 
